@@ -1,0 +1,1 @@
+./pocketbase serve (to start the server)
