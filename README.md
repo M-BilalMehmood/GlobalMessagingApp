@@ -48,13 +48,13 @@ This project is a simple chat application built with Svelte, TypeScript, Vite, a
 Below are example screenshots of the application UI. Place your images in the `Images/` folder.
 
 ### Login Screen
-![Login](../Images/Login.png)
+![Login](../Practice/Images/Login.png)
 
 ### Signup Screen
-![Signup](../Images/Signup.png)
+![Signup](../Practice/Images/Signup.png)
 
 ### Chat Interface
-![Chat Interface](../Images/Interface.png)
+![Chat Interface](../Practice/Images/Interface.png)
 
 ---
 
