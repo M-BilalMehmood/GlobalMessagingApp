@@ -67,3 +67,6 @@ Below are example screenshots of the application UI. Place your images in the `I
 ## License
 
 MIT
+
+## Credits
+Fireship
